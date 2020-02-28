@@ -5,3 +5,7 @@ create new application button and get some codes / 4 codes/keys
 
 you need to get 4 codes/keys to put inside hidden.py
 
+then run twitter1.py / twitter2.py
+
+--this note is not yet done, sorry for the inconvenience
+
