@@ -1,0 +1,7 @@
+readme.txt
+
+1. apps.twitter.com
+create new application button and get some codes / 4 codes/keys
+
+you need to get 4 codes/keys to put inside hidden.py
+
