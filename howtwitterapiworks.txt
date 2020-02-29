@@ -1,6 +1,15 @@
 readme.txt
 
 1. apps.twitter.com
+Go to link
+
+2. Log in or sign up
+
+3. Create an app
+
+4. Fill up what is needed - then submit application, VERIFIED EMAIL must have
+
+
 create new application button and get some codes / 4 codes/keys
 
 you need to get 4 codes/keys to put inside hidden.py
